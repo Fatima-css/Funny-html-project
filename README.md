@@ -47,7 +47,7 @@
 </head>
 <body>
     <h1>💕 Let me introduce you to my SISTER 💕</h1>
-    <p>Here is a photo I took of her—she's a bit shy!</p>
+    <p>Here is a photo I took of her, she's a bit shy!</p>
     <img src="https://www.zbrushcentral.com/uploads/default/original/4X/7/4/4/744229a7a891857d8c3b45d5fdd27317fadad616.jpeg" alt="Beautiful, isn't she?" />
     <p>Body is <strong>TEAAAAAAAA</strong></p>
 
